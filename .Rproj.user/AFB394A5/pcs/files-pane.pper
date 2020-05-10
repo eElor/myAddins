@@ -1,0 +1,9 @@
+{
+    "path" : "~/.R/myAddins",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

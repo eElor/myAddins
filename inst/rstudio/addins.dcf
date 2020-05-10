@@ -1,0 +1,9 @@
+Name: Switch Theme
+Description: Toggle RStudio Theme between Dark and Light
+Binding: switch_theme
+Interactive: false
+
+Name: Insert %in%
+Description: Insert %in% at cursor position
+Binding: insert_in
+Interactive: false

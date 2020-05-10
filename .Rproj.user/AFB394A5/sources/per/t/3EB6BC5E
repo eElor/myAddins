@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588450362808.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3629998078",
+    "id" : "3EB6BC5E",
+    "lastKnownWriteTime" : 1588578186,
+    "last_content_update" : 1588578186775,
+    "path" : "~/HMGU/THESIS/sections/04-intro-obesity-lung.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "56,173",
+        "scrollLine" : "53"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
